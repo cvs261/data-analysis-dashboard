@@ -13,13 +13,6 @@ This is an interactive data analysis dashboard built with Python and Dash. It al
 
 ---
 
-## Demo
-
-![Dashboard Screenshot](https://via.placeholder.com/800x400)  
-*Example of the dashboard interface.*
-
----
-
 ## Installation
 
 ### Prerequisites
